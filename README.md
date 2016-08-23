@@ -1,1 +1,1 @@
-# CityAgents
+# CityAgents is a NetLogo platform designed for simulating peoples movements in any city of the world, the project is still in the construction phase, but first results can be found here. MontrealAgents is a first NetLogo program that simulates the movements of montreal citizens.   
